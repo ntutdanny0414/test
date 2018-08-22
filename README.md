@@ -1,8 +1,8 @@
 this is a telegrampot 
 it can play who is undercover game.
-hackmd 
+*hackmd 
   https://hackmd.io/Bj4-owwCSYmxamIXoAvByA?both#
- 玩法：
+## 玩法
   info
   * 陣營: 平民，臥底（少數人）
   * 臥底目標: 殺掉平民，當臥底數佔一半時獲勝
